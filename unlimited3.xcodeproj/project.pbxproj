@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6421592926DCFDDD00CBB052 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 6421592826DCFDDD00CBB052 /* Experience.rcproject */; };
+		6446BF7B26DD3203008EDD1F /* models in Resources */ = {isa = PBXBuildFile; fileRef = 6446BF7A26DD3203008EDD1F /* models */; };
 		6470DCD026DBF637004F9ABA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DCCF26DBF637004F9ABA /* AppDelegate.swift */; };
 		6470DCD226DBF637004F9ABA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DCD126DBF637004F9ABA /* ViewController.swift */; };
 		6470DCD726DBF637004F9ABA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6470DCD526DBF637004F9ABA /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		6421592826DCFDDD00CBB052 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; name = Experience.rcproject; path = ../../unlimited/unlimited/Experience.rcproject; sourceTree = "<group>"; };
+		6446BF7A26DD3203008EDD1F /* models */ = {isa = PBXFileReference; lastKnownFileType = folder; path = models; sourceTree = "<group>"; };
 		6470DCCC26DBF637004F9ABA /* unlimited3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = unlimited3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6470DCCF26DBF637004F9ABA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6470DCD126DBF637004F9ABA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		6470DCCE26DBF637004F9ABA /* unlimited3 */ = {
 			isa = PBXGroup;
 			children = (
+				6446BF7A26DD3203008EDD1F /* models */,
 				6470DCCF26DBF637004F9ABA /* AppDelegate.swift */,
 				6470DCD126DBF637004F9ABA /* ViewController.swift */,
 				6421592826DCFDDD00CBB052 /* Experience.rcproject */,
@@ -233,6 +236,7 @@
 			files = (
 				6470DCDC26DBF63F004F9ABA /* LaunchScreen.storyboard in Resources */,
 				6470DCD926DBF63F004F9ABA /* Assets.xcassets in Resources */,
+				6446BF7B26DD3203008EDD1F /* models in Resources */,
 				6470DCD726DBF637004F9ABA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
