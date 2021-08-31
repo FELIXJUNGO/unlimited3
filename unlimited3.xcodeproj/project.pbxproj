@@ -8,12 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6421592926DCFDDD00CBB052 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 6421592826DCFDDD00CBB052 /* Experience.rcproject */; };
-		6421DCCA26DD77120020AC27 /* asif5.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6421DCC826DD77120020AC27 /* asif5.usdz */; };
-		6421DCCB26DD77120020AC27 /* asif5.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6421DCC826DD77120020AC27 /* asif5.usdz */; };
-		6421DCCC26DD77120020AC27 /* asif5.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6421DCC826DD77120020AC27 /* asif5.usdz */; };
-		6421DCCD26DD77120020AC27 /* backsteinlampe.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6421DCC926DD77120020AC27 /* backsteinlampe.usdz */; };
-		6421DCCE26DD77120020AC27 /* backsteinlampe.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6421DCC926DD77120020AC27 /* backsteinlampe.usdz */; };
-		6421DCCF26DD77120020AC27 /* backsteinlampe.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6421DCC926DD77120020AC27 /* backsteinlampe.usdz */; };
+		6446BF7B26DD3203008EDD1F /* models in Resources */ = {isa = PBXBuildFile; fileRef = 6446BF7A26DD3203008EDD1F /* models */; };
 		6470DCD026DBF637004F9ABA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DCCF26DBF637004F9ABA /* AppDelegate.swift */; };
 		6470DCD226DBF637004F9ABA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DCD126DBF637004F9ABA /* ViewController.swift */; };
 		6470DCD726DBF637004F9ABA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6470DCD526DBF637004F9ABA /* Main.storyboard */; };
